@@ -1,7 +1,7 @@
 stringdata
 =======
 
-### The Exercise:
+### The Exercise
 
 > Using only core libraries, create a function which takes a string and outputs the character
 > that appears the most along with its total count and the character that appears the least
@@ -9,7 +9,7 @@ stringdata
 > Please provide your solution in a language of your choice and list any assumptions you
 > make about the problem.
 
-### My Implementation:
+### My Implementation
 
 I created a module (Stringdata) with two available methods, getStringdata and printStringdata.  The parsing and other logic is done inside an inner class (StringdataParser).
 
